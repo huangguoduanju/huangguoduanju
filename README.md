@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**huangguoduanju/huangguoduanju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎬 欢迎来到 **AI短剧大全**！
 
-Here are some ideas to get you started:
+这里整理和收录各类热门短剧 App，为喜欢短剧的朋友提供便捷的应用导航与信息参考。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 About This Project
+- 🎭 汇集各类热门短剧 App
+- 🔍 整理短剧应用及相关官网入口
+- 📱 方便查找不同类型的短剧平台
+- 🔄 持续整理与更新相关信息
+
+### 🎯 Our Goal
+打造一个实用、便捷的短剧 App 合集，让你更轻松地发现和了解不同的短剧应用。
+
+⭐ 如果这个项目对你有帮助，欢迎 Star、Fork，支持项目持续完善！
+
+**关键词：** AI短剧大全、短剧App、热门短剧、短剧应用合集、短剧导航
